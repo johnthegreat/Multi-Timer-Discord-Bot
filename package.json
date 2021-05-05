@@ -1,0 +1,20 @@
+{
+  "name": "multi-timer-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Nahlen",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "node-schedule": "^2.0.0"
+  }
+}
